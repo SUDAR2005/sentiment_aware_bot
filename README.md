@@ -27,8 +27,7 @@ A Streamlit-based chatbot application that uses advanced AI to detect emotions f
 - **Mood Analysis**: Tracks and visualizes your emotional state throughout the conversation
 
 ## Demo
-
-https://www.canva.com/design/DAGnbDhCScg/pPDMYLBtpQB9Rg8FvVO3EA/view?utm_content=DAGnbDhCScg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5188703e8c
+https://sudar2005-sentiment-aware-bot-chatbot-s5sxhn.streamlit.app/
 
 ## Requirements
 
