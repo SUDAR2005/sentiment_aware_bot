@@ -2,7 +2,6 @@
 
 A Streamlit-based chatbot application that uses advanced AI to detect emotions from text and voice input, providing personalized responses and inspirational quotes tailored to the user's emotional state.
 
-![Emotion-Aware Chatbot](https://i.imgur.com/example.png)
 
 ## Table of Contents
 - [Features](#features)
